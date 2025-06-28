@@ -48,15 +48,19 @@ VMware is a commercial product known for its enterprise-grade features, performa
 ### Some different chmod permission notations are:
 **chmod +x test.sh**: Gives permission to run the script.
 **chmod 444 test.sh**: Changes file to read-only
+![image](https://github.com/user-attachments/assets/75fe6c43-31e1-4dc7-b20e-24970039ffbf)
 
 ### result
+![image](https://github.com/user-attachments/assets/b1102f24-e2b5-49e7-ba42-4624b40367ad)
 
 
 **chmod 644 test.sh**: Changes file such that only owner can edit it. For others it remain read-only.
+![image](https://github.com/user-attachments/assets/18c8aa08-6611-430a-84b3-deeb307c9488)
 
 
 
 ### result
+![image](https://github.com/user-attachments/assets/60bad556-a1a9-4ec2-8eb9-c2c689ae4c95)
 
 
 ### Redirection:
