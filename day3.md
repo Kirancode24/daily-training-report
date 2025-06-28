@@ -68,18 +68,19 @@ In Linux, whenever an individual runs a command, it can take input, give output,
 Overwrite redirection is useful when you want to store/save the output of a command to a file and replace all the existing content of that file. for example, if you run a command that gives a report, and you want to save the report to the existing file of the previous report you can use overwrite redirection to do this. 
 
 **">" standard output**
-![image](https://github.com/user-attachments/assets/490f02ed-2988-410a-b1ec-3ec168ad0d0a)
+![image](https://github.com/user-attachments/assets/37090dd2-bfdc-4d90-a907-f02ee0aa0633)
 
 
 ### Append Redirection (For stdout): 
 With the help of this Redirection, you can append the output to the file without compromising the existing data of the file.
-![image](https://github.com/user-attachments/assets/ff0e161f-a6e9-4124-ba7a-9a5b59daf306)
+![image](https://github.com/user-attachments/assets/5efab05a-8aa4-44bf-89ed-b7c68fdf7f8a)
 
 
 
 ### Overwrite Redirection (For stdin):
 Redirects the standard input of a command to a file.
 **"<" standard input**
+![image](https://github.com/user-attachments/assets/9cb48edb-57af-4ebc-9a5d-2103b4d7d6ea)
 
 ### sorting with help of Redirection:
 ![image](https://github.com/user-attachments/assets/8b74cef9-c076-43c6-ab56-a64962de290d)
@@ -87,12 +88,12 @@ Redirects the standard input of a command to a file.
 ### Pipe '|':
 A pipe is a form of redirection (transfer of standard output to some other destination) that is used in Linux and other Unix-like operating systems to send the output of one command/program/process to another command/program/process for further processing.You can make it do so by using the pipe character '|'. 
 **Pipe for filtration:**
-![image](https://github.com/user-attachments/assets/8808cfb7-0107-4e26-b945-9fe2e2d39847)
+![image](https://github.com/user-attachments/assets/3f2db4f6-0432-420b-b3f3-9e99242f2d33)
+
 
 **for finding multiple files:**
 to find number of files/directory consisting p
-
-![image](https://github.com/user-attachments/assets/0d25e490-2d83-468c-a37c-4b7c3ec27ab2)
+![image](https://github.com/user-attachments/assets/17b7abd9-9516-49fa-883c-b8e680021439)
 
 
 
