@@ -1,16 +1,16 @@
 # Training day 3
 
-### Dual Boot
-Dual booting allows a computer to run two different operating systems, enabling users to choose which one to boot into upon startup.
-
 ### ISO file
 In Linux, an ISO file is a single file containing a complete copy of the data from a CD, DVD, or other optical media, formatted as an ISO 9660 file system. 
 
-### Bare metal installation
-It refers to setting up an operating system directly on a physical server's hardware, without any intervening virtualization layer like a hypervisor.
+### Dual Boot
+Dual booting allows a computer to run two different operating systems, enabling users to choose which one to boot into upon startup.
 
 ### VMware and Virtual box
 VMware is a commercial product known for its enterprise-grade features, performance, and comprehensive support, while VirtualBox is an open-source, free alternative, generally favored for personal use, testing, and development. 
+
+### Bare metal installation
+It refers to setting up an operating system directly on a physical server's hardware, without any intervening virtualization layer like a hypervisor.
 
 ### Partitioning schemes
 1. Dividing a hard disk into separate sections.
