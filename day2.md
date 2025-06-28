@@ -93,5 +93,6 @@ All files and folders are inside this root, even if they are on different drives
 
 ![image](https://github.com/user-attachments/assets/d93c2a88-79e1-4d03-a82b-7914cdcbcd34)
 ![image](https://github.com/user-attachments/assets/a2aadfc4-a485-4784-bf6b-14e684a767cf)
-![image](https://github.com/user-attachments/assets/2f8bb32c-7e23-4afd-92af-a27c8e5b8f68)
+![image](https://github.com/user-attachments/assets/fb854dc0-5499-4f6f-99e6-b5b872b1af66)
+
 
