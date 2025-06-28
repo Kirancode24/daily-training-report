@@ -32,13 +32,13 @@ It refers to setting up an operating system directly on a physical server's hard
 
 - GPT (GUID Partition Table):
 
- 1.Supports 128+ partitions.
+ 1. Supports 128+ partitions.
 
- 2.Works with disks >2 TB.
+ 2. Works with disks >2 TB.
 
- 3.Newer, used with UEFI.
+ 3. Newer, used with UEFI.
 
- 4.more flexible
+ 4. more flexible
 
 ### Permissions & Shell programming:
 ### File and directory permissions:
