@@ -68,22 +68,23 @@ In Linux, whenever an individual runs a command, it can take input, give output,
 Overwrite redirection is useful when you want to store/save the output of a command to a file and replace all the existing content of that file. for example, if you run a command that gives a report, and you want to save the report to the existing file of the previous report you can use overwrite redirection to do this. 
 
 **">" standard output**
-![image](https://github.com/user-attachments/assets/37090dd2-bfdc-4d90-a907-f02ee0aa0633)
 
 
 ### Append Redirection (For stdout): 
 With the help of this Redirection, you can append the output to the file without compromising the existing data of the file.
-![image](https://github.com/user-attachments/assets/5efab05a-8aa4-44bf-89ed-b7c68fdf7f8a)
+![image](https://github.com/user-attachments/assets/6c03f723-615b-48c4-b843-2df66bc906de)
+![image](https://github.com/user-attachments/assets/1543d4f1-6a42-4fae-aa2d-93e603271aae)
 
 
 
 ### Overwrite Redirection (For stdin):
 Redirects the standard input of a command to a file.
 **"<" standard input**
-![image](https://github.com/user-attachments/assets/9cb48edb-57af-4ebc-9a5d-2103b4d7d6ea)
+
 
 ### sorting with help of Redirection:
-![image](https://github.com/user-attachments/assets/8b74cef9-c076-43c6-ab56-a64962de290d)
+![image](https://github.com/user-attachments/assets/4b4384aa-1975-4945-ae77-be411d2442f3)
+
 
 ### Pipe '|':
 A pipe is a form of redirection (transfer of standard output to some other destination) that is used in Linux and other Unix-like operating systems to send the output of one command/program/process to another command/program/process for further processing.You can make it do so by using the pipe character '|'. 
