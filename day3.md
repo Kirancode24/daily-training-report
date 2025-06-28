@@ -99,19 +99,23 @@ to find number of files/directory consisting p
 
 ### Shell programming:
 1.use of variables:
-![image](https://github.com/user-attachments/assets/a721b6bd-5557-46b5-880f-a219fa7ddbbf)
+![image](https://github.com/user-attachments/assets/0fba447b-7e74-4a3d-99ed-5267622edb9b)
 
 output:
-![image](https://github.com/user-attachments/assets/93160168-e7de-48fa-bd31-146bf32f09a7)
+![image](https://github.com/user-attachments/assets/47763ed3-b743-41bf-ae25-d2d1c3b016f2)
+
 
 2.multiply table:
-![image](https://github.com/user-attachments/assets/9c73142a-c9ba-43ec-aa95-4cc07a2ec1f5)
+![image](https://github.com/user-attachments/assets/a5c82f90-9295-449e-839b-cb662e94ce77)
+
 
 output:
-![image](https://github.com/user-attachments/assets/fe4da1e0-537d-430a-aa24-09fb4170635f)
+![image](https://github.com/user-attachments/assets/9b366377-d6d9-470f-aa18-ef027a02ed49)
+
 
 3.comparison of two numbers:
-![image](https://github.com/user-attachments/assets/d8bfa897-1225-4770-8c2f-3805bcacad69)
+![Uploading image.png…]()
+
 
 output:
-![image](https://github.com/user-attachments/assets/1d3a9c57-3120-45e5-a0b4-74abb0c26f91)
+![image](https://github.com/user-attachments/assets/6e065664-4a28-4274-b10c-507010d46c5e)
