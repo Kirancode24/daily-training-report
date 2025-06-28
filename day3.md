@@ -13,11 +13,11 @@ VMware is a commercial product known for its enterprise-grade features, performa
 It refers to setting up an operating system directly on a physical server's hardware, without any intervening virtualization layer like a hypervisor.
 
 ### Partitioning schemes
-1.Dividing a hard disk into separate sections.
+1. Dividing a hard disk into separate sections.
 
-2.Each section (partition) acts like an independent disk.
+2. Each section (partition) acts like an independent disk.
 
-3.Helps organize data and install multiple OS.
+3. Helps organize data and install multiple OS.
 
 ### Types
 - MBR (Master Boot Record):
@@ -47,14 +47,14 @@ It refers to setting up an operating system directly on a physical server's hard
 
 ### Some different chmod permission notations are:
 **chmod +x test.sh**: Gives permission to run the script.
-**chmod 444 test.sh**: Changes file to read-only
+- chmod 444 test.sh: Changes file to read-only
 ![image](https://github.com/user-attachments/assets/75fe6c43-31e1-4dc7-b20e-24970039ffbf)
 
 ### result
 ![image](https://github.com/user-attachments/assets/b1102f24-e2b5-49e7-ba42-4624b40367ad)
 
 
-**chmod 644 test.sh**: Changes file such that only owner can edit it. For others it remain read-only.
+- chmod 644 test.sh: Changes file such that only owner can edit it. For others it remain read-only.
 ![image](https://github.com/user-attachments/assets/18c8aa08-6611-430a-84b3-deeb307c9488)
 
 
@@ -68,20 +68,20 @@ In Linux, whenever an individual runs a command, it can take input, give output,
 
 ### Types of Redirection:
 
-### Overwrite Redirection (For stdout):
+- Overwrite Redirection (For stdout):
 Overwrite redirection is useful when you want to store/save the output of a command to a file and replace all the existing content of that file. for example, if you run a command that gives a report, and you want to save the report to the existing file of the previous report you can use overwrite redirection to do this. 
 
 **">" standard output**
 
 
-### Append Redirection (For stdout): 
+- Append Redirection (For stdout): 
 With the help of this Redirection, you can append the output to the file without compromising the existing data of the file.
 ![image](https://github.com/user-attachments/assets/6c03f723-615b-48c4-b843-2df66bc906de)
 ![image](https://github.com/user-attachments/assets/1543d4f1-6a42-4fae-aa2d-93e603271aae)
 
 
 
-### Overwrite Redirection (For stdin):
+- Overwrite Redirection (For stdin):
 Redirects the standard input of a command to a file.
 **"<" standard input**
 
