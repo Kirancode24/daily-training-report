@@ -13,7 +13,7 @@ VMware is a commercial product known for its enterprise-grade features, performa
 It refers to setting up an operating system directly on a physical server's hardware, without any intervening virtualization layer like a hypervisor.
 
 ### Partitioning schemes
-1. Dividing a hard disk into separate sections.
+1.Dividing a hard disk into separate sections.
 
 2.Each section (partition) acts like an independent disk.
 
@@ -32,7 +32,7 @@ It refers to setting up an operating system directly on a physical server's hard
 
 - GPT (GUID Partition Table):
 
- 1. Supports 128+ partitions.
+ 1.Supports 128+ partitions.
 
  2.Works with disks >2 TB.
 
