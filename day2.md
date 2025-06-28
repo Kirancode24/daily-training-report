@@ -21,6 +21,7 @@ Happens when the system restarts without turning off the power.
 Example: You click Restart or press Ctrl + Alt + Del.
 
 ### Structure of Linux shell
+![image](https://github.com/user-attachments/assets/ca35c78f-f999-4a0a-b5ed-422d5e888218)
 
 
 ### Study of Kernel
