@@ -21,7 +21,7 @@ Happens when the system restarts without turning off the power.
 Example: You click Restart or press Ctrl + Alt + Del.
 
 ### Structure of Linux shell
-![image](https://github.com/user-attachments/assets/25634ba7-2d4c-4972-87bf-04b17f9bbe1c)
+
 
 ### Study of Kernel
 The kernel is the core part of an operating system.It manages the communication between hardware and softwar
@@ -49,7 +49,8 @@ User interacts using windows, icons, and buttons.Easy for beginners.Example : GN
 ### Linux File System Structure
 The Linux file system starts from the root directory /.
 All files and folders are inside this root, even if they are on different drives.
-![image](https://github.com/user-attachments/assets/9ddc3c82-0b58-43f9-ab84-5448f95cf40f)
+![image](https://github.com/user-attachments/assets/943dcfff-5cb6-457f-a853-22a788d7461b)
+
 
 ### Main Folders in Linux File System
 |Directory	|        Meaning|
