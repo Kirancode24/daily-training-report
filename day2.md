@@ -91,7 +91,7 @@ All files and folders are inside this root, even if they are on different drives
 |**pwd**	|Shows current directory path	|	pwd|
 |---------|-----------------------------|----|
 
-![image](https://github.com/user-attachments/assets/1adac868-3807-4a54-a70a-1ff8750c3a13)
-![image](https://github.com/user-attachments/assets/dca52cb2-1cd0-4467-b5c1-082609335f2a)
-![image](https://github.com/user-attachments/assets/6ac67abc-67cb-4608-ba34-c79e48eb60a1)
-![image](https://github.com/user-attachments/assets/afd349aa-29c2-42f9-bacf-3ce14505a7ca)
+![image](https://github.com/user-attachments/assets/d93c2a88-79e1-4d03-a82b-7914cdcbcd34)
+![image](https://github.com/user-attachments/assets/a2aadfc4-a485-4784-bf6b-14e684a767cf)
+![image](https://github.com/user-attachments/assets/2f8bb32c-7e23-4afd-92af-a27c8e5b8f68)
+
