@@ -49,7 +49,8 @@ User interacts using windows, icons, and buttons.Easy for beginners.Example : GN
 ### Linux File System Structure
 The Linux file system starts from the root directory /.
 All files and folders are inside this root, even if they are on different drives.
-![image](https://github.com/user-attachments/assets/943dcfff-5cb6-457f-a853-22a788d7461b)
+![image](https://github.com/user-attachments/assets/285090b7-04cc-42f5-9da7-0855a8f1d808)
+
 
 
 ### Main Folders in Linux File System
