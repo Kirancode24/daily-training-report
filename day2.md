@@ -4,7 +4,7 @@ Day two of the summer training program was about the study of booting in linux.
 
 ## What is Booting?
 Booting is the process of starting a computer. When you switch on your computer, the system loads the operating system (like Windows or Linux) from the hard drive into the RAM (memory), so you can use the computer.
-### Booting Process :
+###  Booting Process :
 - ***Power On*** – You turn on the computer.
  
 - ***POST (Power-On Self-Test)*** – System checks hardware (RAM, keyboard, etc.).
