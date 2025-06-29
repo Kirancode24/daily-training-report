@@ -49,6 +49,49 @@ User interacts by typing commands. Fast and powerful for developers and system a
 |**ksh**|korn shell(advanced features)|
 |**zsh**|z shell(user friendly & customizable)|
 
+From these CLI shells , **BASH** is the most important shell.
+### 🐚 What is **Bash**?
+
+**Bash** stands for **Bourne Again SHell**.
+It is a **command-line shell** used in **Linux** to **interact with the operating system**.> **Bash** is a program that lets you **type commands** to control your computer without using the mouse.
+* Used to **run commands** like creating files, copying, moving, or deleting.
+* Supports **scripting**, so you can **automate tasks** with `.sh` files.
+* Built-in on **Linux**, **macOS**, and available for **Windows** (via WSL or Git Bash).
+
+---
+
+### **Example Bash Commands:**
+
+```bash
+ls       # list files
+cd       # change directory
+mkdir    # make a new folder
+rm       # remove files/folders
+echo     # print text
+```
+
+---
+
+### **Example of a Bash Script:**
+
+```bash
+#!/bin/bash
+echo "Hello, Kiran!"
+mkdir my_folder
+cd my_folder
+touch file.txt
+```
+
+---
+
+### ** Importance of BASH in linux:**
+
+* Core part of **Linux system administration**.
+* Helps in **automation** (via shell scripting).
+* Essential for **DevOps**, **ethical hacking**, **software development**, and more.
+
+---
+
 ### 3. Graphical User Interface (GUI) Shells
 User interacts using windows, icons, and buttons.Easy for beginners.Example : GNOME, KDE (on Linux)
 
