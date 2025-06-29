@@ -6,16 +6,16 @@ Day two of the summer training program was about the study of booting in linux.
 Booting is the process of starting a computer. When you switch on your computer, the system loads the operating system (like Windows or Linux) from the hard drive into the RAM (memory), so you can use the computer.
 ### Booting Process :
 - ***Power On*** – You turn on the computer.
-- 
--***POST (Power-On Self-Test)*** – System checks hardware (RAM, keyboard, etc.).
--  
--***BIOS/UEFI Loads*** – Basic system firmware starts.
--
--***Boot Loader Activated*** – BIOS/UEFI finds and runs the boot loader.
--
--***OS Loading*** – Boot loader loads the operating system into RAM.
--
--***System Ready*** – Operating system starts, and the computer is ready to use.
+ 
+- ***POST (Power-On Self-Test)*** – System checks hardware (RAM, keyboard, etc.).
+ 
+- ***BIOS/UEFI Loads*** – Basic system firmware starts.
+
+- ***Boot Loader Activated*** – BIOS/UEFI finds and runs the boot loader.
+
+- ***OS Loading*** – Boot loader loads the operating system into RAM.
+
+- ***System Ready*** – Operating system starts, and the computer is ready to use.
 
 ## Types of Booting:
 #### Cold Booting (Hard Booting):
