@@ -43,13 +43,76 @@ It refers to setting up an operating system directly on a physical server's hard
 ### Permissions & Shell programming:
 ### File and directory permissions:
 
-**chmod (Change mode)**: It is used to change the access permissions of files and directories.
+**chmod (Change mode)**: It is used to change the access permissions of files and directories For the owner, group,and others.
+**syntax** :
+```bash
+chmod [permissions] [file_name]
+```
+**For example:** chmod + x filename.sh
 
-### Some different chmod permission notations are:
+##  `chmod +x filename.sh`
+
+The command `chmod +x filename.sh` is used to **add execute permission** to a file (usually a script like `.sh`), so it can be **run as a program**.
+
+---
+
+###  Syntax Breakdown
+
+| Component     | Description                                                  |
+| ------------- | ------------------------------------------------------------ |
+| `chmod`       | Stands for **Change Mode** – used to change file permissions |
+| `+x`          | Adds **execute** permission                                  |
+| `filename.sh` | The name of the shell script file                            |
+
+---
+
+![alt text](++x.png)
+
+![alt text](+x.png)
+
+
+###  Purpose
+
+This command makes a file **executable** by the **user, group, and others (by default)**.
+You can then run the script directly using:
+
+```bash
+./filename.sh
+```
+
+Without execute permission, you'll see:
+
+```
+bash: ./filename.sh: Permission denied
+
+```
+
+To give execute permission **only to the file owner**, use:
+
+```bash
+chmod u+x filename.sh
+```
+This is a safer option when sharing code in teams or on public systems.
+
+---
+
+
+####  **Octal Permission Codes**:
+
+| Number | Symbol | Meaning              |
+| ------ | ------ | -------------------- |
+| 7      | rwx    | Read, Write, Execute |
+| 6      | rw-    | Read, Write          |
+| 5      | r-x    | Read, Execute        |
+| 4      | r--    | Read only            |
+| 0      | ---    | No permissions       |
+
+---
+### example:
 **chmod +x test.sh**: Gives permission to run the script.
 - chmod 444 test.sh: Changes file to read-only
 ![image](https://github.com/user-attachments/assets/75fe6c43-31e1-4dc7-b20e-24970039ffbf)
-
+r-- r-- r--
 ### result
 ![image](https://github.com/user-attachments/assets/b1102f24-e2b5-49e7-ba42-4624b40367ad)
 
@@ -57,7 +120,7 @@ It refers to setting up an operating system directly on a physical server's hard
 - chmod 644 test.sh: Changes file such that only owner can edit it. For others it remain read-only.
 ![image](https://github.com/user-attachments/assets/18c8aa08-6611-430a-84b3-deeb307c9488)
 
-
+rw- r-- r--
 
 ### result
 ![image](https://github.com/user-attachments/assets/60bad556-a1a9-4ec2-8eb9-c2c689ae4c95)
