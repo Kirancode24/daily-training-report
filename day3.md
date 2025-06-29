@@ -66,10 +66,6 @@ The command `chmod +x filename.sh` is used to **add execute permission** to a fi
 
 ---
 
-![alt text](++x.png)
-
-![alt text](+x.png)
-
 
 ###  Purpose
 
