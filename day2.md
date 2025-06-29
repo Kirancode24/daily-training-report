@@ -52,7 +52,7 @@ User interacts by typing commands. Fast and powerful for developers and system a
 From these CLI shells , **BASH** is the most important shell.
 ###  What is **Bash**?
 
-**Bash** stands for **Bourne Again SHELL**.
+**Bash** stands for **Bourne Again SHell**.
 It is a **command-line shell** used in **Linux** to **interact with the operating system**.> **Bash** is a program that lets you **type commands** to control your computer without using the mouse.
 * Used to **run commands** like creating files, copying, moving, or deleting.
 * Supports **scripting**, so you can **automate tasks** with `.sh` files.
