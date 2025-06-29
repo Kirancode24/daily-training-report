@@ -19,7 +19,7 @@ It refers to setting up an operating system directly on a physical server's hard
 
 3. Helps organize data and install multiple OS.
 
-### Types
+**Types**
 - MBR (Master Boot Record):
 
 1. Max 4 primary partitions.
