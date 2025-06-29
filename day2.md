@@ -50,7 +50,7 @@ User interacts by typing commands. Fast and powerful for developers and system a
 |**zsh**|z shell(user friendly & customizable)|
 
 From these CLI shells , **BASH** is the most important shell.
-### 🐚 What is **Bash**?
+###  What is **Bash**?
 
 **Bash** stands for **Bourne Again SHell**.
 It is a **command-line shell** used in **Linux** to **interact with the operating system**.> **Bash** is a program that lets you **type commands** to control your computer without using the mouse.
