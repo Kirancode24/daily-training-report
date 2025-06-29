@@ -30,29 +30,29 @@ After installing Oracle virtual machine and Microsoft Visual C++, install Ubuntu
 
 Set Up Ubuntu in VirtualBox:
 -
-Open VirtualBox
+- Open VirtualBox
 
-Click New > Name: e.g., Ubuntu VM
+- Click New > Name: e.g., Ubuntu VM
 
-Select the path of Ubuntu in iso image
+- Select the path of Ubuntu in iso image
 
-Set: Type: Linux Version: Ubuntu (64-bit)
+- Set: Type: Linux Version: Ubuntu (64-bit)
 
-Enter the username and password
+- Enter the username and password
 
-Set the required memory space and processors.
+- Set the required memory space and processors.
 
-- Product based companies:
+### Product based companies:
 Develop and sell their own products
 Earn from selling/licensing products
 Google, Microsoft, Adobe, Apple
 Own and maintain their own codebase
 
-- Service based companies:
+### Service based companies:
 Provide services or solutions to other businesses
 Earn from client contracts
 Infosys, TCS, Wipro, Accenture
 Work on client-owned codebases
 
-- Startups:
+### Startups:
 Startups are newly established companies aiming to solve problems with innovative solutions.
