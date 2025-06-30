@@ -30,7 +30,6 @@ for this, you need to use
 it matches files without typing full names.
 ![image](https://github.com/user-attachments/assets/be5bb45d-fdba-4faf-a7ed-a5f00fa90924)
 
-### Escaping character 
 
 ## hardware : PC, hardware troubleshooting :-
 ### CPU:
