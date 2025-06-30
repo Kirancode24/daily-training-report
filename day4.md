@@ -25,8 +25,10 @@ it matches files without typing full names.
 ### Escaping character 
 
 ## hardware : PC, hardware troubleshooting :-
-
-**Motherboard (printed circle board)**
+### CPU:
+The Central Processing Unit (CPU) is like the brain of a computer. It’s the part that does most of the thinking, calculating, and decision-making to make your computer work. Whether you’re playing a game, typing a school assignment, or watching a video, the CPU is busy handling all the instructions to get the job done.
+**components of CPU**-
+**1.Motherboard (printed circle board)**
 ![image](https://github.com/user-attachments/assets/786bac4e-ccee-4a7f-9a66-395e859db98e)
 
 A motherboard is the central circuit board in a computer that connects all the other components. It acts as the nervous system, allowing communication between the CPU, RAM, storage devices, and expansion cards. Key components include the CPU socket, RAM slots, expansion slots, chipset, BIOS/UEFI, and various ports for peripherals. 
