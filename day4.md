@@ -27,7 +27,10 @@ it matches files without typing full names.
 ## hardware : PC, hardware troubleshooting :-
 ### CPU:
 The Central Processing Unit (CPU) is like the brain of a computer. It’s the part that does most of the thinking, calculating, and decision-making to make your computer work. Whether you’re playing a game, typing a school assignment, or watching a video, the CPU is busy handling all the instructions to get the job done.
-**components of CPU**-
+![image](https://github.com/user-attachments/assets/aff29abb-5f14-42e3-b333-5418e5b662ff)
+
+**components of CPU**
+
 **1.Motherboard (printed circle board)**
 ![image](https://github.com/user-attachments/assets/786bac4e-ccee-4a7f-9a66-395e859db98e)
 
@@ -67,7 +70,54 @@ CMOS refers to Complementary Metal-Oxide-Semiconductor, a type of technology use
 - Other Connectors:
 These include connectors for front panel buttons and LEDs, as well as headers for additional USB ports and other internal components. 
 
-### Hard disk :
+**2. Hard Disk Drive (HDD):**
+- Stores data,software, and the operating system.
+- Located under the optical drive in the cabinet.
 
+**3.optical drive(CD/DVD Drive):**
+
+* Used to read/write **CDs and DVDs**
+
+*How to locate components of a CPU?*
+
+- Look for the power supply with fan (usually at the back top or bottom of the cabinet).
+- In front of it is the optical drive.
+- On it's side is the Motherboard.
+- Below the optical drive is the hard disk drive.
+
+### Difference between RAM and Cache memory:
+
+| Feature        | **RAM (Random Access Memory)**            | **Cache Memory**                          |
+| -------------- | ----------------------------------------- | ----------------------------------------- |
+| **Purpose**    | It holds programs and data that are currently executed by the CPU. | It holds frequently used data by the CPU.  |
+| **Speed**      | Slower than cache                         | Much faster than RAM                      |
+| **Size**       | Larger (in GBs, e.g., 8GB, 16GB)          | Smaller than RAM  |
+
+**Why do we need Cache memory?**
+- It helps the **CPU work faster and more efficiently** by reducing the time it takes to access data.
+  * Cache memory is **much faster** than RAM.
+  * It stores **frequently used instructions and data**, so the CPU doesn’t have to wait for slower RAM.
+  * Without cache, the Processor would **waste cycles**.<br>
+So it is used to remove mismatch between RAM and Processor speed.
+
+### Difference between RAM and Hard Disk:
+
+| Feature              | RAM (Random Access Memory)           | Hard Disk                            |
+| -------------------- | ----------------------------------------------- | ---------------------------------------------- |
+| **Purpose**          | Temporary memory for currently running programs | Permanent storage for files, software, and OS  |
+| **Storage Type**   | Temporary (loses data when off)                   | Permanent (keeps data when off)|
+| **Speed**            | Much faster                                     | Slower compared to RAM                         |
+| **Storage Capacity** | Smaller                   | Larger                  |
+| **Access Method**    | Direct access by CPU                            | Slower access through file system              |
+| **Cost**      |  Expensive                                  | Cheaper                                        |
+| **Function**         | Helps run active programs and processes         | Stores data, files, OS, and installed programs |
+
+**Process of Booting:**
+| **Step**                                        | **Description**                                                                                                               |
+| ----------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| **1. Power On**                                 | You press the **power button**. Electricity flows to all components.                                                          |
+| **2. Signal to RAM (Firmware loads Bootstrap)** | The **BIOS/UEFI firmware** stored in ROM sends a signal to RAM and loads Bootstrap Loader. |
+| **3. Hard Disk Copy Transferred to RAM**        | The Bootstrap Loader finds the operating system (OS) on the hard disk and copies essential OS files into RAM.     |
+| **4. OS Starts (OS gets control)**              | Once the OS is loaded into RAM, it takes over the system. The desktop/interface appears, and the system is ready for use.     |
 
 
