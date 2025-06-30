@@ -6,6 +6,7 @@ In Linux, file compression is the process of reducing the size of a file or a se
 syntax: gzip filename
 
 ```
+
 compresses the file filename and replace it with filename.gz
 **example:-**
 
@@ -14,14 +15,21 @@ compresses the file filename and replace it with filename.gz
 syntax: gunzip filename.sh.gz
 
 ```
+![image](https://github.com/user-attachments/assets/c639bb42-f02f-416f-877f-0dce37a47d13)
+
+
 ### want to keep original file too? 
 for this, you need to use
 `-k zip -k notes.txt`
 **how?**
 - notes.txt(kept)
 - notes.txt.gz(created)
+![image](https://github.com/user-attachments/assets/7a0f73ba-eefd-4ac8-b7fd-a3598dc23659)
+  
 ### wildcard(globbing)
 it matches files without typing full names.
+![image](https://github.com/user-attachments/assets/be5bb45d-fdba-4faf-a7ed-a5f00fa90924)
+
 ### Escaping character 
 
 ## hardware : PC, hardware troubleshooting :-
