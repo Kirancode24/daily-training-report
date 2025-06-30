@@ -112,12 +112,5 @@ So it is used to remove mismatch between RAM and Processor speed.
 | **Cost**      |  Expensive                                  | Cheaper                                        |
 | **Function**         | Helps run active programs and processes         | Stores data, files, OS, and installed programs |
 
-**Process of Booting:**
-| **Step**                                        | **Description**                                                                                                               |
-| ----------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| **1. Power On**                                 | You press the **power button**. Electricity flows to all components.                                                          |
-| **2. Signal to RAM (Firmware loads Bootstrap)** | The **BIOS/UEFI firmware** stored in ROM sends a signal to RAM and loads Bootstrap Loader. |
-| **3. Hard Disk Copy Transferred to RAM**        | The Bootstrap Loader finds the operating system (OS) on the hard disk and copies essential OS files into RAM.     |
-| **4. OS Starts (OS gets control)**              | Once the OS is loaded into RAM, it takes over the system. The desktop/interface appears, and the system is ready for use.     |
 
 
