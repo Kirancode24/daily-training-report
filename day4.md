@@ -27,7 +27,14 @@ for this, you need to use
 ![image](https://github.com/user-attachments/assets/7a0f73ba-eefd-4ac8-b7fd-a3598dc23659)
   
 ### wildcard(globbing)
+### Wild cards:
 it matches files without typing full names.
+| Wildcard | Meaning    | 
+| -------- | --------------------------------------------- |
+| `*`      | Matches **zero or more** characters           | 
+| `?`      | Matches **exactly one** character             |
+| `[abc]`  | Matches **one character** from set            | 
+
 ![image](https://github.com/user-attachments/assets/be5bb45d-fdba-4faf-a7ed-a5f00fa90924)
 
 
