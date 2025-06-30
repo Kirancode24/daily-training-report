@@ -122,6 +122,25 @@ rw- r-- r--
 ### result
 ![image](https://github.com/user-attachments/assets/60bad556-a1a9-4ec2-8eb9-c2c689ae4c95)
 
+### chown :
+
+**How to Use `chown`:**
+ 1. Check current ownership (optional).
+ 2. Run the `chown` command.  Use `sudo` if you're not the current owner.
+
+**Changing owner only:**<br>
+![](https://github.com/KamaljeetKaur00/Daily_bash_notes_2025/blob/main/images/chown.jpg)
+
+**Changing group only:**<br>
+![](https://github.com/KamaljeetKaur00/Daily_bash_notes_2025/blob/main/images/chown_group.jpg)
+
+**Changing both group and owner permissions:** <br>
+![](https://github.com/KamaljeetKaur00/Daily_bash_notes_2025/blob/main/images/chown_group-own.jpg)
+
+
+
+
+
 
 ### Redirection:
 In Linux, whenever an individual runs a command, it can take input, give output, or do both. Redirection helps us redirect these input and output functionalities to the files or folders we want, and we can use special commands or characters to do so.
