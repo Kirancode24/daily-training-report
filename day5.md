@@ -36,17 +36,15 @@
 ### Steps to Speed Up Your System:
 ```bash
 # 1. Remove Temporary Files
-rd /s /q C:\\Windows\\Temp
-rd /s /q %temp%
 
 # 2. Disk Cleanup
-cleanmgr /sagerun:1
+
 
 # 3. Disable Startup Programs
-wmic startup get caption,command
+
 
 # 4. Defragmentation (Windows Command)
-defrag C:
+
 ```
 
 - Avoid cluttering the desktop.
