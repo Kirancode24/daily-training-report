@@ -127,15 +127,14 @@ rw- r-- r--
 **How to Use `chown`:**
  1. Check current ownership (optional).
  2. Run the `chown` command.  Use `sudo` if you're not the current owner.
-
+**used for**
 **Changing owner only:**<br>
-![](https://github.com/KamaljeetKaur00/Daily_bash_notes_2025/blob/main/images/chown.jpg)
 
 **Changing group only:**<br>
-![](https://github.com/KamaljeetKaur00/Daily_bash_notes_2025/blob/main/images/chown_group.jpg)
+
 
 **Changing both group and owner permissions:** <br>
-![](https://github.com/KamaljeetKaur00/Daily_bash_notes_2025/blob/main/images/chown_group-own.jpg)
+
 
 
 
