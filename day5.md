@@ -58,14 +58,13 @@
 ### Troubleshooting Steps:
 ```bash
 # Restart the Print Spooler Service
-net stop spooler
-net start spooler
+
 
 # Check Print Queue
-Get-Printer | Get-PrintJob
+
 
 # Reinstall Printer Drivers
-start "PrinterSetup.exe"
+
 ```
 
 - If a page gets stuck, cancel and reprint.
