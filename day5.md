@@ -101,4 +101,5 @@ chkdsk /f /r
 - Record the error code displayed on the BSOD for further troubleshooting.
 - Boot into Safe Mode to isolate the issue.
 - Uninstall recently added hardware or software if issues persist.
-![image](https://github.com/user-attachments/assets/9b4dca26-9277-4a7e-b5de-e5afcb3c04f8)
+
+![image](https://github.com/user-attachments/assets/21a5dd90-0d3a-4a6f-9a55-e49bd74d9c0b)
