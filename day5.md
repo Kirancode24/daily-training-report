@@ -103,3 +103,37 @@ chkdsk /f /r
 - Uninstall recently added hardware or software if issues persist.
 
 ![image](https://github.com/user-attachments/assets/21a5dd90-0d3a-4a6f-9a55-e49bd74d9c0b)
+## 7. BIOS/UEFI Settings and POST Errors
+
+### BIOS/UEFI Settings:
+- **Accessing BIOS/UEFI:**
+  - Restart the computer and press the appropriate key (usually `F2`, `Del`, or `Esc`) during startup.
+- **Common Settings:**
+  - Boot Order: Set the priority for bootable devices.
+  - Hardware Monitoring: Check system temperatures and fan speeds.
+  - Enable/Disable Devices: Turn onboard devices (e.g., LAN, audio) on or off.
+
+### Troubleshooting BIOS/UEFI Issues:
+```bash
+# Reset BIOS to Default Settings
+# Access BIOS and select "Load Defaults" or "Reset to Factory Settings."
+
+# Update BIOS Firmware
+# Download the latest firmware from the manufacturer’s website and follow update instructions.
+
+# Clear CMOS
+# Power off the system, remove the CMOS battery, and reinsert it after a few minutes.
+```
+
+### POST Errors (Power-On Self-Test):
+- **Definition:** Diagnostic process performed by the BIOS/UEFI during startup.
+- **Common POST Error Codes:**
+  - 1 beep: Everything is fine.
+  - 2 short beeps: General error, check hardware.
+  - Continuous beeping: RAM issue.
+  - No beep: Power supply or motherboard problem.
+
+- **Steps to Resolve POST Errors:**
+  - Check and reseat RAM modules.
+  - Ensure all cables and components are properly connected.
+  - Replace faulty hardware if necessary.
