@@ -108,19 +108,23 @@ This is a safer option when sharing code in teams or on public systems.
 ### example:
 **chmod +x test.sh**: Gives permission to run the script.
 - chmod 444 test.sh: Changes file to read-only
-![image](https://github.com/user-attachments/assets/75fe6c43-31e1-4dc7-b20e-24970039ffbf)
+![image](https://github.com/user-attachments/assets/40fa6b67-9a60-4afa-a0b0-265c938b95a5)
+
 r-- r-- r--
 ### result
-![image](https://github.com/user-attachments/assets/b1102f24-e2b5-49e7-ba42-4624b40367ad)
+![image](https://github.com/user-attachments/assets/d90b2845-8502-4634-850d-0d5c6760d611)
+
 
 
 - chmod 644 test.sh: Changes file such that only owner can edit it. For others it remain read-only.
-![image](https://github.com/user-attachments/assets/18c8aa08-6611-430a-84b3-deeb307c9488)
+![image](https://github.com/user-attachments/assets/7768e0be-834a-427b-bd6c-152bbcbb2f34)
+
 
 rw- r-- r--
 
 ### result
-![image](https://github.com/user-attachments/assets/60bad556-a1a9-4ec2-8eb9-c2c689ae4c95)
+![image](https://github.com/user-attachments/assets/9384679b-86f4-4c2e-871d-ea07bca638e1)
+
 
 ### chown :
 
