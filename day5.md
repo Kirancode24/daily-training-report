@@ -59,10 +59,27 @@
 
 - **Extended Partition:**
   - Use D, E, or other drives for images, notes, and non-critical files.
+2. Speed slow (Causes & Fixes): <br>
+-        Desktop: Files should be on drive. By default files on desktop are stored on C drive. As OS system is installed in C: file, its recomended to not put many folders in Desktop. Move them into drives. 
 
+-        Task bar: Keep minimal shortcuts on the taskbar 
+
+-        Browser (Bookmarks): Avoid excessive browser bookmarks as they slow down browser start-up.
+
+-        Temporary files: These files are created by websites & cookies, and stored/ download in hidden files. Ulitmately because of it the system slows down.  So, after a period of time remove temporary files.
+
+- RAM overuse: Don't open a number of applications or tabs are open at once. As ulitimately we are using the RAM.
+
+-        Malware: Regularly scan your system for malwares.
+
+-        Fragmentation: <br>
+    There shouldn’t be dely to access files. <br>
+    To make system efficient in working and get work done in optimal way, defragmentation is done.<br>
+    * Go to `Start → Defragment and Optimize Drives`
+    * Schedule defragmentation for automatic optimization.
 ---
 
-## 4. Speed Optimization
+##  Speed Optimization
 
 ### Steps to Speed Up Your System:
 ```bash
@@ -101,7 +118,7 @@
 - If a page gets stuck, cancel and reprint.
 - Use the queue for large print jobs.
 - Check and replace ink or toner regularly.
-## 6. BSOD (Blue Screen of Death)
+## . BSOD (Blue Screen of Death)
 
 ### Common Causes:
 - **Driver Issues:** Outdated or corrupt drivers can cause BSOD.
@@ -134,7 +151,7 @@ chkdsk /f /r
 - Uninstall recently added hardware or software if issues persist.
 
 ![image](https://github.com/user-attachments/assets/21a5dd90-0d3a-4a6f-9a55-e49bd74d9c0b)
-## 7. BIOS/UEFI Settings and POST Errors
+##  BIOS/UEFI Settings and POST Errors
 
 ### BIOS/UEFI Settings:
 - **Accessing BIOS/UEFI:**
