@@ -60,19 +60,19 @@
 - **Extended Partition:**
   - Use D, E, or other drives for images, notes, and non-critical files.
 2. Speed slow (Causes & Fixes):
--        Desktop: Files should be on drive. By default files on desktop are stored on C drive. As OS system is installed in C: file, its recomended to not put many folders in Desktop. Move them into drives. 
+- Desktop: Files should be on drive. By default files on desktop are stored on C drive. As OS system is installed in C: file, its recomended to not put many folders in Desktop. Move them into drives. 
 
--        Task bar: Keep minimal shortcuts on the taskbar 
+- Task bar: Keep minimal shortcuts on the taskbar 
 
--        Browser (Bookmarks): Avoid excessive browser bookmarks as they slow down browser start-up.
+- Browser (Bookmarks): Avoid excessive browser bookmarks as they slow down browser start-up.
 
--        Temporary files: These files are created by websites & cookies, and stored/ download in hidden files. Ulitmately because of it the system slows down.  So, after a period of time remove temporary files.
+- Temporary files: These files are created by websites & cookies, and stored/ download in hidden files. Ulitmately because of it the system slows down.  So, after a period of time remove temporary files.
 
 - RAM overuse: Don't open a number of applications or tabs are open at once. As ulitimately we are using the RAM.
 
--        Malware: Regularly scan your system for malwares.
+- Malware: Regularly scan your system for malwares.
 
--        Fragmentation: 
+- Fragmentation: 
     There shouldn’t be dely to access files. 
     To make system efficient in working and get work done in optimal way, defragmentation is done.<br>
     * Go to `Start → Defragment and Optimize Drives`
