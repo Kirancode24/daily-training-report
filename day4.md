@@ -1,10 +1,8 @@
-
-
-
-## hardware : PC, hardware troubleshooting :-
+## Training day 4:-
+ ## Hardware 
 ### CPU:
 The Central Processing Unit (CPU) is like the brain of a computer. It’s the part that does most of the thinking, calculating, and decision-making to make your computer work. Whether you’re playing a game, typing a school assignment, or watching a video, the CPU is busy handling all the instructions to get the job done.
-![image](https://github.com/user-attachments/assets/aff29abb-5f14-42e3-b333-5418e5b662ff)
+![image](https://github.com/user-attachments/assets/da405654-b126-4adb-8e6d-e6f8c9a09bd7)
 
 **components of CPU**
 
