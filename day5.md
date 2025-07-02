@@ -3,7 +3,7 @@
 
 ---
 
-## 1. HDD Types and Components
+##  HDD Types and Components
 
 ### Difference Between HDD, RAM, Cache, and Registers:
 - **HDD (Hard Disk Drive):** Permanent storage device for data, measured in GB or TB.
@@ -13,14 +13,15 @@
 
 ---
 
-## 2. GPU (Graphics Processing Unit)
+##  GPU (Graphics Processing Unit)
 - **Definition:** Specialized processor for rendering graphics.
 - **Function:** Enhances image processing and supports high-performance computing tasks.
-
+- **Problems:** overheating, driver issues,screen tearing,or no display output
 ---
 
-## 3. Partitioning (Hard Disk Preparation for Installation)
+## PCU (Personal Computer Unit):
 
+1.installing and hard disk preparation:
 ### Logical and Extended Partitioning:
 - **Logical Partition:**
   - Store the OS (Linux, Unix, Windows) on the C drive.
