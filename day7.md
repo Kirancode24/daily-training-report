@@ -72,12 +72,13 @@ subnetting is a technique used to split a network into multiple smaller networks
   
 |Term	|Description|
 
-|-----|-----------|
+|-----------|--------------------------------|
+
 |IP Address	|Identifies a device in a network|
-|Subnet Mask	| Defines the size of the subnet|
-|Network Address	|First address of the subnet|
-|Broadcast Address	|Last address of the subnet|
-|Host Address	|IP addresses that can be assigned to devices|
+|Subnet Mask| Defines the size of the subnet|
+|Network Address|First address of the subnet|
+|Broadcast Address|Last address of the subnet|
+|Host Address|IP addresses that can be assigned to devices|
 |-------------|---------------------------------------------|
 
 
