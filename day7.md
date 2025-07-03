@@ -1,4 +1,4 @@
-## training day 7:-
+## Training day 7:-
 
 ## Network:
 A computer network is a group of two or more interconnected computer systems that share data and resources through communication channels.
