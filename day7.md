@@ -53,9 +53,11 @@ Delimiter used - colon (:)
 ![image](https://github.com/user-attachments/assets/1c29e8ab-6b31-40ae-9c51-29f8dc6defed)
 
  ### Classes in IP:
-![image](https://github.com/user-attachments/assets/2b5b145f-15e2-4cbd-88c7-e3fcc4fda740)
+![image](https://github.com/user-attachments/assets/e4cd50a3-1462-45a4-bc68-1da24261f54f)
+
 ### DIFFERENCE BTW UNICAST, MULTICAST, BROADCAST.
-![image](https://github.com/user-attachments/assets/598ac0f3-d66e-4a5f-ac18-61793fdb4e04)
+![image](https://github.com/user-attachments/assets/56949c97-5759-426e-88fb-3abb589900d0)
+
 ## Subnetting 
 subnetting is a technique used to split a network into multiple smaller networks, each with its own range of IP addresses, while still being part of the same larger network.
 
@@ -67,21 +69,48 @@ subnetting is a technique used to split a network into multiple smaller networks
 - Helps in efficient IP address allocation
 
 - Simplifies network management
+## Mac address:-
+A MAC address is a 48-bit unique identifier assigned to a network device by its manufacturer, used for communication within a local network (LAN).
 
-   Key Terms:
-  
-|Term	|Description|
+- Key Features:
+Permanently burned into hardware (but can be changed in software)
 
-|-----------|--------------------------------|
+Expressed in hexadecimal format
 
-|IP Address	|Identifies a device in a network|
-|Subnet Mask| Defines the size of the subnet|
-|Network Address|First address of the subnet|
-|Broadcast Address|Last address of the subnet|
-|Host Address|IP addresses that can be assigned to devices|
-|-------------|---------------------------------------------|
+Used for device-to-device communication in the same network
+## DNS :-
+The Domain Name System (DNS) is a hierarchical system that maps human-readable domain names to machine-readable IP addresses on the internet or within a network.
 
+### Why DNS is Needed:
+- Humans remember names like youtube.com
 
+- Computers use IP addresses like 142.250.195.14
 
+- DNS acts as a translator between them
+
+### How DNS Works (Steps):
+- You type www.example.com in your browser.
+
+- The computer asks the DNS Resolver for the IP.
+
+- Resolver queries DNS servers in order:
+
+### Root Server
+
+- Top-Level Domain (TLD) Server (.com, .org)
+
+- Authoritative Name Server (actual domain's IP info)
+
+- The IP address is returned to the browser.
+
+-Browser connects to the IP and loads the website.
+### default Gateway:-
+A Default Gateway is the device (usually a router) that connects a local network to the internet or to another network. It acts as an access point or IP router that a device uses to send data to another network or the outside world.
+ ### Why It’s Important:
+ - It connects devices in your network to the internet.
+
+- Without a default gateway, devices can only communicate locally.
+
+- It helps in routing data between networks.
 
 
