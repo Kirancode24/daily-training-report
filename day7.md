@@ -7,7 +7,7 @@ A host is a network-connected device assigned with an IP address, which allows i
 ## Server:-
 A server is a powerful host machine in a network that runs server software and responds to client requests, such as hosting websites, storing files, or managing emails.
 ## Client:-
-A server is a powerful host machine in a network that runs server software and responds to client requests, such as hosting websites, storing files, or managing emails.
+client-server network, the client refers to the device or software that initiates requests and interacts with the user.
 ## Traffic:-
 Network traffic is the flow of data packets over a network, including all types of communication such as browsing, file transfers, video streaming, emails, etc.
 
