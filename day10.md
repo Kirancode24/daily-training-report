@@ -66,12 +66,6 @@
 <img src="image.jpg" alt="Description of image">
 ```
 
-##### Using above HTML tags 
-
-![alt text](htmltags.png)
-
-![alt text](runn.png)
-
 
 
 
