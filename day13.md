@@ -33,7 +33,7 @@ Future coders must learn Git because it is a **crucial skill in software develop
 
 ## Git Architecture: Repository, Working Tree, Index
 
-![alt text](gitarchi.jpg)
+
 
 Git uses a **three-layer architecture**:
 
@@ -60,15 +60,7 @@ Working Tree → Index (Staging Area) → Repository
 
  **Git download page or installation setup**
 
-![alt text](git1.png)
 
-![alt text](git2.png)
-
-![alt text](git3.png)
-
-![alt text](git4.png)
-
-![alt text](git5.png)
 
 #### Step 2: Create a GitHub Repository
 
@@ -81,9 +73,7 @@ Working Tree → Index (Staging Area) → Repository
 
  **Create repository page on GitHub**
 
-![alt text](git6.png)
 
-![alt text](git7.png)
 
 
 ####  Step 3: Clone Repository to Your System
@@ -110,9 +100,7 @@ Use this command:
 touch index.html
 ```
 
-![alt text](comm1.png)
 
-![alt text](comm2.png)
 
 
 ##  Step 6: Edit the File
@@ -123,7 +111,7 @@ Edit using `nano` or VS Code or Notepad:
 nano index.html
 ```
 
-![alt text](comm3.png)
+
 
 
 ##  Step 7: Stage the File
@@ -141,7 +129,7 @@ Commit with a message:
 ```bash
 git commit -m "Added index.html file"
 ```
-![alt text](comm4.png)
+
 
 ##  Step 9: Push to GitHub
 
@@ -150,15 +138,7 @@ Now push to the GitHub repository:
 ```bash
 git push origin main
 ```
-![alt text](comm5.png)
 
-![alt text](comm6.png)
-
-![alt text](comm7.png)
-
-![alt text](comm8.png)
-
-![alt text](comm9.png)
 
 -----
 
@@ -208,7 +188,7 @@ git status
 git log
 ```
 
-![alt text](comm.png)
+
 
 ---
 
